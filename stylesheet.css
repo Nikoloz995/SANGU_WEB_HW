@@ -1,0 +1,9 @@
+div.rCorner{
+	display: inline;
+	border-radius: 25px;
+	border: 2px solid #73AD21;
+	float: left; 
+	width:30%;
+	height: 200px;
+
+}
